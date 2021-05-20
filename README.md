@@ -1,77 +1,55 @@
-## Your Name
+## Allison Denisse Lopez
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
-## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+I'm a 2nd year college student of the Public Accounting and Auditing career who decided to venture in the world of Web Development.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### *Fast Learner*
 
--STAR
--What was the situation/task? (ST)
+Through the learning proccess, I was capable of:
+  * Grasp new concepts and ideas efficiently.
+  * Being resourceful.
+  * Being highly organized.
+  * Improve my grammar skills.
 
--How was the skill used?
+#### *Teamwork*
 
--What did you do? (action)
+During my online college classes and the pre-course, I was able to improve my skills in:
+  * Communication (written and oral).
+  * Problem-solving.
+  * Time and tasks management.
+  * Receive and give feedback.
 
--What was the result?
+### *Adaptability*
 
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I was put outside my comfort zone many times: changes in the due date of tasks, having to work under pressure or learn Web development from scratch. These and many other challenges, have given me experience to improve in:
+  * Commitment.
+  * Proactiveness.
+  * Being open-minded.
+  * Being positive.
+  * Creativity.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (April 2021 to -)
+  * TDD and Pair Programming.
+  * Ruby
+  * Git, GitHub
+  * RSpec
 
-#### Your University / College (start_date to end_date)
+#### Universidad del Valle (January 2020 to present)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+  * Public Accounting and Auditing.
 
-#### Any other qualifications
+### Universidad Centroamericana (UCA) (2017-2018)
 
-That in some arguable way make you a better software developer or well-rounded person
+  * English Course
 
-## Hobbies
+### Centro Cultural Nicaragüense Norteamericano (2018 - 2019)
 
-Any cool stuff that makes you a super part of a software development team
+  * English Course
+  * Translation Workshop
+
+## Languages
+  * English (Intermediate)
+  * Spanish (Native)
