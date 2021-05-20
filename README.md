@@ -4,7 +4,7 @@ I'm a 2nd year college student of the Public Accounting and Auditing career who 
 
 ## Skills
 
-#### *Fast Learner*
+#### *Fast Learner
 
 Through the learning proccess, I was capable of:
   * Grasp new concepts and ideas efficiently.
@@ -12,7 +12,7 @@ Through the learning proccess, I was capable of:
   * Being highly organized.
   * Improve my grammar skills.
 
-#### *Teamwork*
+#### *Teamwork
 
 During my online college classes and the pre-course, I was able to improve my skills in:
   * Communication (written and oral).
@@ -20,7 +20,7 @@ During my online college classes and the pre-course, I was able to improve my sk
   * Time and tasks management.
   * Receive and give feedback.
 
-### *Adaptability*
+#### *Adaptability
 
 I was put outside my comfort zone many times: changes in the due date of tasks, having to work under pressure or learn Web development from scratch. These and many other challenges, have given me experience to improve in:
   * Commitment.
@@ -41,11 +41,11 @@ I was put outside my comfort zone many times: changes in the due date of tasks, 
 
   * Public Accounting and Auditing.
 
-### Universidad Centroamericana (UCA) (2017-2018)
+#### Universidad Centroamericana (UCA) (2017-2018)
 
   * English Course
 
-### Centro Cultural Nicaragüense Norteamericano (2018 - 2019)
+#### Centro Cultural Nicaragüense Norteamericano (2018 - 2019)
 
   * English Course
   * Translation Workshop
